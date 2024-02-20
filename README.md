@@ -5,19 +5,28 @@ The program is to determine whether two given graphs are isomorphic or not. Grap
 # ALGORITHM:
 
 1.	Check Vertex and Edge Counts:
+   
        •      If the number of vertices in both graphs is different, they are not isomorphic.
        •	If the number of edges in both graphs is different, they are not isomorphic.
+  	
 2.	Degree Sequence Check:
+   
        •	For each vertex in both graphs, compare their degrees (number of adjacent vertices).
        •	If the degree sequences are different, the graphs are not isomorphic.
+  	
 3.	Graph Isomorphism Testing:
+   
        •	Choose a starting vertex in the first graph.
        •	For each vertex in the second graph, attempt to match it with the starting vertex from the first graph.
        •	Recursively check if the remaining subgraphs are isomorphic.
        •	If a valid mapping is found for all vertices, the graphs are isomorphic.
+  	
 4.	Backtracking:
+   
        •	If at any point during the recursive isomorphism testing, an invalid mapping is detected, backtrack and try a different mapping.
+  	
 5.	Output:
+   
        •	Displays the output as the given graph is isomorphic or not.
 
 # IMPLEMENTATION TOOLS:
