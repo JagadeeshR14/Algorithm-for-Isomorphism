@@ -5,7 +5,7 @@ The program is to determine whether two given graphs are isomorphic or not. Grap
 # ALGORITHM:
 
 1.	Check Vertex and Edge Counts:
-       • If the number of vertices in both graphs is different, they are not isomorphic.
+       •      If the number of vertices in both graphs is different, they are not isomorphic.
        •	If the number of edges in both graphs is different, they are not isomorphic.
 2.	Degree Sequence Check:
        •	For each vertex in both graphs, compare their degrees (number of adjacent vertices).
@@ -23,8 +23,8 @@ The program is to determine whether two given graphs are isomorphic or not. Grap
 # IMPLEMENTATION TOOLS:
 
 1.  Programming language C++
-2.	G++ compiler
-3.	Online cpp(C++) compiler
+2.  G++ compiler
+3.  Online cpp(C++) compiler
 
 # SAMPLE INPUT GRAPHS:
 
