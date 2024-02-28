@@ -2,7 +2,7 @@
 
 The program is to determine whether two given graphs are isomorphic or not. Graph isomorphism refers to a one-to-one correspondence between the vertices of two graphs in such a way that edges are preserved.
 
-# ALGORITHM:
+## ALGORITHM:
 
 1.	Check Vertex and Edge Counts:
    
@@ -29,13 +29,13 @@ The program is to determine whether two given graphs are isomorphic or not. Grap
    
        1.	Displays the output as the given graph is isomorphic or not.
 
-# IMPLEMENTATION TOOLS:
+## IMPLEMENTATION TOOLS:
 
 1.  Programming language C++
 2.  G++ compiler
 3.  Online cpp(C++) compiler
 
-# SAMPLE INPUT GRAPHS:
+## SAMPLE INPUT GRAPHS:
 
 Input Graph 1:
 
@@ -45,7 +45,7 @@ Input Graph 2:
 
 <img width="322" alt="image" src="https://github.com/JagadeeshR14/Algorithm-for-Isomorphism/assets/139132404/236e83ed-cf2a-44ae-aae5-e95ed84cf5e1">
 
-# OUTPUT:
+## OUTPUT:
 
 Output for Input Graph 1:
 
