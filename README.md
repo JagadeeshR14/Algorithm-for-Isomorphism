@@ -31,9 +31,11 @@ The program is to determine whether two given graphs are isomorphic or not. Grap
 
 ## IMPLEMENTATION TOOLS:
 
-1.  Programming language C++
-2.  G++ compiler
+1.  Programming language C++, Python, Java
+2.  G++ compiler, Python interpreter, Java compiler
 3.  Online cpp(C++) compiler
+4.  Online python compiler(interpreter)
+5.  Online java compiler
 
 ## SAMPLE INPUT GRAPHS:
 
